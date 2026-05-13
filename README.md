@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Rishabh 👋
 
-<!--
-**Rishabhkashyap-git/Rishabhkashyap-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | C++ | Python | DSA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Interested in programming and software development
+- 📚 Currently learning Data Structures & Algorithms in C++
+- 🛠️ Comfortable with Python, SQL, Git & GitHub
+- 🌱 Exploring development and open source
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rishabhkashyap-git&hide_border=true" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/rishabh-kashyap-7b234b2a8
+- 🖥️ GitHub: https://github.com/Rishabhkashyap-git
