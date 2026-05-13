@@ -1,34 +1,18 @@
-# Hi, I'm Rishabh 👋
+# Hi, I'm Rishabh
 
-### B.Tech CSE Student | C++ | Python | DSA
+B.Tech CSE student interested in programming, problem solving, and software development.
 
----
+Currently learning Data Structures & Algorithms in C++ and exploring development and open source.
 
-## 🚀 About Me
-- 💻 Interested in programming and software development
-- 📚 Currently learning Data Structures & Algorithms in C++
-- 🛠️ Comfortable with Python, SQL, Git & GitHub
-- 🌱 Exploring development and open source
+## Skills
+- C++
+- Python
+- SQL
+- Git & GitHub
+- Figma
+- AutoCAD
 
----
-
-## 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rishabhkashyap-git&hide_border=true" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-- 💼 LinkedIn: www.linkedin.com/in/rishabh-kashyap-7b234b2a8
-- 🖥️ GitHub: https://github.com/Rishabhkashyap-git
+## Currently Learning
+- DSA
+- Development
+- Open Source
